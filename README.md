@@ -12,9 +12,6 @@
 
 ![Flow Diagram](./Design/pictures/flow_diagram.png)
 
-## Design & Report
-Please refer to [Design Doc](./Design/main.pdf) & [Report](./Report/main.pdf)
-
 ### Key Features
 
 - **Thread-Safe Operations**: Supports concurrent execution using a thread pool.
