@@ -1,4 +1,4 @@
-# MemFS CL-Project (24CS60R12)
+# MemFS Project
 
 ## Overview
 
